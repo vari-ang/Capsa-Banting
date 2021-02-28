@@ -3,6 +3,9 @@
 Permainan capsa umumnya dimainkan oleh empat orang. Perangkat yang dibutuhkan adalah 52 kartu tanpa Joker. Di awal permainan, ke-52 kartu ini dibagikan sampai habis. Jadi setiap pemain mendapat 13 kartu. Ada dua macam capsa yaitu: capsa susun dan capsa banting. Pada project ini hanya fokus ke capsa banting.
 Kenapa dinamakan capsa banting? Sebab ketika mengeluarkan kartu, kita membantingnya. Dalam permainan capsa banting, siapa yang sudah mengeluarkan seluruh kartunya pertama kali adalah yang menang.
 
+# Techs
+Java programming language, NetBeans IDE, Web Services, Multithreading, and MySQL database
+
 # Fitur
 1.	Login user. Data login (username dan password) tersimpan pada database server, di mana hanya server yang dapat mengakses langsung database
 2.	Sign Up user baru
